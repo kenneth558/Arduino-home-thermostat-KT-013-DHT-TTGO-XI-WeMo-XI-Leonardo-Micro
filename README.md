@@ -1,3 +1,5 @@
+# Use of KY-013 almost supported, but not yet
+
 # Arduino-home-thermostat-KT-013-DHT-TTGO-XI-WeMo-XI-Leonardo-Micro-Yún
 For all boards, but compiles smaller in those boards without room for the thermostat auto mode option but need the other enhancements including KY-013 with calibration &amp;/or DHT.  In boards needing it, the thermostat "auto" mode option is skipped to make room. "heat", "cool", and "off" thermostat mode options are retained. In boards with good capacity, all enhancements remain.  This version will be the base version for all future versions and will include future enhancements that compile only for boards that they will fit in.
 
