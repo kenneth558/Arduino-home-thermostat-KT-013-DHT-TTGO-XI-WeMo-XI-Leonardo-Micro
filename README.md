@@ -1,5 +1,3 @@
-# Use of KY-013 almost supported, but not yet
-
 # Arduino Home Thermostat utilizing KT-013 with calibration capability and DHTs. FOR ALL BOARDS: UNO, TTGO-XI/WeMo-XI, Leonardo, Micro, Yún, Mega, etc....
 For all boards, but compiles smaller in those boards without room for the thermostat auto mode option but need the other enhancements including KY-013 with calibration and/or DHT.  In boards needing it, the thermostat "auto" mode option is skipped to make room. "heat", "cool", and "off" thermostat mode options are retained which only has meaning if you hook up outdoor sensor[s]. In boards with good capacity, all enhancements remain.  This version will be the base version for all future versions that will include future enhancements that compile only for boards that they will fit in.
 
